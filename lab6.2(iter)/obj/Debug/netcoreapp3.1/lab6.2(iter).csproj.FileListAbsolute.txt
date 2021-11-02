@@ -1,0 +1,13 @@
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\bin\Debug\netcoreapp3.1\lab6.2(iter).exe
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\bin\Debug\netcoreapp3.1\lab6.2(iter).deps.json
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\bin\Debug\netcoreapp3.1\lab6.2(iter).runtimeconfig.json
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\bin\Debug\netcoreapp3.1\lab6.2(iter).runtimeconfig.dev.json
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\bin\Debug\netcoreapp3.1\lab6.2(iter).dll
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\bin\Debug\netcoreapp3.1\lab6.2(iter).pdb
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).csproj.AssemblyReference.cache
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).AssemblyInfoInputs.cache
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).AssemblyInfo.cs
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).csproj.CoreCompileInputs.cache
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).dll
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).pdb
+D:\Files\univeersity\AP\Projects(C#)\lab6.2(iter)\lab6.2(iter)\obj\Debug\netcoreapp3.1\lab6.2(iter).genruntimeconfig.cache

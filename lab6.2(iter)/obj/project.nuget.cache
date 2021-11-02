@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJIdgBsu6UyZ9pb+1t3eTfpwZEICaMzhiZ1Sl6P5eBV2OszzK1LsxOstz2hqRQW0oLJgjEghQfFSfXcjwFa0yw==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\univeersity\\AP\\Projects(C#)\\lab6.2(iter)\\lab6.2(iter)\\lab6.2(iter).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serpe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
