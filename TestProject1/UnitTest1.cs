@@ -7,8 +7,8 @@ namespace TestProject1 {
         [TestMethod]
         public void TestMethod1() {
             int[] a = {1,2,3,4,5};
-            int max = Program.MaxOddElement(a, a.Length);
-            Assert.AreEqual(5, max);
+            int index = Program.MaxOddElement(a);
+            Assert.AreEqual(4, index);
         }
     }
 }
